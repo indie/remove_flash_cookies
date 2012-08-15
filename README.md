@@ -17,6 +17,7 @@ That's lots of cookies.   Although I periodically clean mine out, they're persis
 
 (1) Just clone the repo into your $HOME 
 (2) run the following periodically:  ./remove-flash-cookies.sh
+(3) Add to your web browser the names of ones that show up unwelcome (#effectivemeasure.net was added to the above output for illustrative purposes only; it is currently actively blocked by my browser) 
 
 Now you can double check that the cookies are gone:
 
