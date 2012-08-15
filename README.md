@@ -10,7 +10,8 @@ First let's find them.  There are two places they live:
 Here is a small selection from the sample output:
 
 indie@home$ ls -aLF ~/.macromedia/Flash_Player/macromedia.com/support/flashplayer/sys
-#bankofthewest.com/  #mail.google.com/      settings.sol  #s.ytimg.com/         #www.npr.org/  #ia.media-imdb.com/  #qsf.cf.quoracdn.net/  #s.wsj.net/   #widgets.nbcuni.com/  #www.quirky.com/  #effectivemeasure.com/ #effectivemeasure.net
+
+  #bankofthewest.com/  #mail.google.com/      settings.sol  #s.ytimg.com/         #www.npr.org/  #ia.media-imdb.com/  #qsf.cf.quoracdn.net/  #s.wsj.net/   #widgets.nbcuni.com/  #www.quirky.com/  #effectivemeasure.com/ #effectivemeasure.net
 
 That's lots of cookies.   Although I periodically clean mine out, they're persistent little buggers if you do a lot of browsing.  Run the above command on your local machine to see what websites have injected themselves into yours.  Scared?  Annoyed?  I was too.  Here is how to get rid of them. . .
 
