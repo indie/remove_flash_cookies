@@ -4,8 +4,9 @@ This simple script can help you remove them on a periodic basis.
 
 First let's find them.  There are two places they live:  
 
- ~/.macromedia/Flash_Player/macromedia.com/support/flashplayer/sys
- ~/.macromedia/Flash_Player #SharedObjects
+  ~/.macromedia/Flash_Player/macromedia.com/support/flashplayer/sys
+  
+  ~/.macromedia/Flash_Player #SharedObjects
 
 Here is a small selection from the sample output:
 
