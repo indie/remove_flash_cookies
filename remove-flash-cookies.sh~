@@ -10,5 +10,4 @@ sudo rm -rf $HOME/.macromedia/Flash_Player/macromedia.com/support/flashplayer/sy
 sudo rm -rf $HOME/.adobe/Flash_Player/NativeCache
 sudo rm -rf $HOME/.adobe/Flash_Player/AssetCache
 sudo rm -rf $HOME/.cache/mozilla/firefox
-sudo rm -rf $HOME/.cache/*
 echo "Removed unwanted cookies. (Re-run the script if you wish to confirm they are actually gone.)"
