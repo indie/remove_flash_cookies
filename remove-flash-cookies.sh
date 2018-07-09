@@ -20,7 +20,7 @@ sudo rm -rf $HOME/.cache/mozilla/firefox/*.default/{cache2,frequencyCap.json,dir
 sudo rm -rf $HOME/.cache/mozilla/firefox/*.default/datareporting/*
 sudo rm -rf ~/.mozilla/firefox/mwad0hks.default/datareporting/*
 sudo rm -rf  $HOME/.mozilla/firefox/*.default/cookies.*
-sudo rm -rf  $HOME/.mozilla/firefox//kzj780yn.default/cookies.*
+sudo rm -rf  $HOME/.mozilla/firefox/.default/cookies.*
 sudo rm -rf ~/.cache/mozilla/*
 sudo rm -rf /.macromedia/Flash_Player/macromedia.com/support/flashplayer/sys/#cdn.livestream.com/settings.sol
 
